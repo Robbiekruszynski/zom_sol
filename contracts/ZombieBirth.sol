@@ -37,4 +37,3 @@ contract ZombieFactory {
 
 }
 
-// Start here
